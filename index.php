@@ -5,7 +5,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 		<meta name="description" content="description"/>
 		<meta name="keywords" content="keywords"/>
-			<meta name="author" content="İSMAİL TAŞDELEN"/>
+			<meta name="author" content="Tc.Mohamad Saiful Rezan"/>
 				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 				<title>İsmail Taşdelen | Portfolio Page</title>
 			<link rel="shortcut icon" href="img/website_ico/icon.ico">
@@ -62,7 +62,7 @@ ga('send', 'pageview');
             <div class="col-sm-8 col-sm-offset-2 text-center">
                 <img src="img/face/face.jpg" class="face" alt="">
                 <hr class="empty">
-                <p class="header-name">İSMAİL TAŞDELEN</p>
+                <p class="header-name">Tc.Mohamad Saiful Rezan</p>
                 <p class="header-title">Cyber Security Specialist & Senior Developer</p>
                 <div class="slidingVertical">
                 <p class="header-title">
